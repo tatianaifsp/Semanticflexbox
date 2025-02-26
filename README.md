@@ -1,6 +1,6 @@
 # Logística Express - Estrutura do Site 
 
-🎯 Objetivos da Aula (https://tatianaifsp.github.io/Semanticflexbox/)
+🎯 Objetivos da Aula 
 
 ✅ Compreender o que são tags semânticas em HTML.
 
@@ -14,10 +14,11 @@
 ## Descrição
 Este repositório contém o código-fonte de um site responsivo para a empresa **Logística Express**. O objetivo é apresentar os serviços de logística oferecidos, depoimentos de clientes, FAQs e um blog.
 
+(https://tatianaifsp.github.io/Semanticflexbox/)
+
 ## Tecnologias Utilizadas
 - **HTML5**: Para estruturação semântica da página.
 - **CSS3 (Flexbox)**: Para estilização e layout responsivo.
-- **Google Fonts e Font Awesome**: Para tipografia e ícones.
 
 ## Estrutura do Projeto
 ```
