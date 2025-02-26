@@ -25,7 +25,7 @@ Este repositório contém o código-fonte de um site responsivo para a empresa *
 /
 |-- index.html
 |-- style.css
-|-- /img (Imagens utilizadas)
+|-- (Imagens utilizadas)
 ```
 
 ## Estrutura Semântica do HTML
