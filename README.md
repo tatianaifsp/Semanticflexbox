@@ -1,6 +1,6 @@
-# Logística Express - Estrutura do Site
+# Logística Express - Estrutura do Site 
 
-🎯 Objetivos da Aula
+🎯 Objetivos da Aula (https://tatianaifsp.github.io/Semanticflexbox/)
 
 ✅ Compreender o que são tags semânticas em HTML.
 
